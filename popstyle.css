@@ -1,0 +1,15 @@
+@import url('//fonts.googleapis.com/css?family=Montserrat:thin,extra-light,light,100,200,300,400,500,600,700,800');
+body{
+	background-color: #ffffff;
+    fond-family: "Montserrat", sans-serif;
+    font-size: 14px;	
+	}
+h1{
+	color: #2F9BCA;
+	margin-left: 20px;
+}
+p{
+	color: #444444;
+	margin-left: 20px;
+}
+
